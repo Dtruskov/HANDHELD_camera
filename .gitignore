@@ -7,7 +7,6 @@
 /[Uu]ser[Ss]ettings/
 /.vs/
 /.vscode/
-/HANDHELD_camera/
 *.csproj
 *.sln
 *.slnx
