@@ -17,3 +17,4 @@
 *.pdb
 *.mdb
 .DS_Store
+/LegacyBackups/
